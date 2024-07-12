@@ -14,7 +14,10 @@
 
 ## Overview
 
-This repository contains a JavaScript-based text-to-voice converter that allows users to input text and have it read aloud using the Web Speech API.
+This repository contains a JavaScript-based text-to-voice converter that allows users to input text and have it read aloud using the Web Speech API [TRY NOW!](https://qyuzet.github.io/js-text-to-voice-converter/).
+
+![image](https://github.com/user-attachments/assets/5a9ad6b7-5551-4979-9824-fec5e09b3f4f)
+
 
 ## Features
 
